@@ -13,7 +13,7 @@ Feel free to explore the website to learn more about the festival and get a tast
 To get started with the project, simply clone this repository to your local machine and open the `index.html` file in your web browser. You'll be transported to the world of the Myntra Festival, where you can immerse yourself in the festivities.
 
 ```bash
-git clone https://github.com/MullaiVenese03/Event-Management-project.git
+git clone https://github.com/MullaiVenese03/Event-Management-Project.git
 ```
 
 ## Usage
@@ -28,4 +28,4 @@ git clone https://github.com/MullaiVenese03/Event-Management-project.git
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [🤍MullaiVenese](https://github.com/MullaiVenese03/).
