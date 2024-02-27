@@ -21,6 +21,7 @@ git clone https://github.com/MullaiVenese03/Event-Management-Project.git
 1. Open `index.html` in your web browser to explore the festival website.
 2. Navigate through the pages to discover event details, schedules, and attractions.
 3. Get excited and share the festival experience with your friends and family!
+[LIVE](https://mullaivenese03.github.io/Event-Management-Project/)
 
 ## Contributors
 
